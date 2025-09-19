@@ -71,7 +71,7 @@ export default function Level4({ progress, setProgress }) {
       <div className="w-full max-w-8xl mx-auto p-8 space-y-8">
         <header className="text-center space-y-4 max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-extrabold text-blue-900 ">
-    Level 4: Lov tipkovnicom na nedostupne elemente
+    Level 4: Lov tastaturom na nedostupne elemente
   </h1>
   <p className="text-gray-600 max-w-2xl mx-auto">
     Tvoj zadatak: istraži ovaj obrazac koristeći samo tipku <kbd className="px-1 py-0.5 bg-gray-200 rounded">Tab</kbd> i pronađi elemente koji <strong>nisu dostupni preko tipkovnice</strong>.  
