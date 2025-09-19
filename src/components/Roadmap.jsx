@@ -17,9 +17,9 @@ export default function Roadmap({ progress }) {
     { id: "quiz1", title: "Kviz 1", completed: progress.quiz1, badge: badgeQuiz1, path: "/quiz1" },
     { id: 1, title: "Level 1: ALT Tekst", completed: progress.level1, badge: badge1, path: "/level1" },
     { id: 2, title: "Level 2: Semantički HTML", completed: progress.level2, badge: badge2, path: "/level2" },
-    { id: 3, title: "Level 3: Forme i pristupačnost", completed: progress.level3, badge: badge3, path: "/level3" },
-    { id: 4, title: "Level 4: Multimedia", completed: progress.level4, badge: badge4, path: "/level4" },
-    { id: 5, title: "Level 5: Boje i kontrasti", completed: progress.level5, badge: badge5, path: "/level5" },
+    { id: 3, title: "Level 3: Vizuelna pristupačnost", completed: progress.level3, badge: badge3, path: "/level3" },
+    { id: 4, title: "Level 4: Lov tastaturom", completed: progress.level4, badge: badge4, path: "/level4" },
+    { id: 5, title: "Level 5: Nestabilni miš", completed: progress.level5, badge: badge5, path: "/level5" },
     { id: 6, title: "Level 6: Slab vid", completed: progress.level6, badge: badge6, path: "/level6" },
     { id: "quiz2", title: "Kviz 2", completed: progress.quiz2, badge: badgeQuiz2, path: "/quiz2" },
   ];
